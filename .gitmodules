@@ -1,0 +1,6 @@
+[submodule "QtChatProgramServer"]
+	path = QtChatProgramServer
+	url = https://github.com/seonghyun2457/QtChatProgramServer.git
+[submodule "QtChatProgramClient"]
+	path = QtChatProgramClient
+	url = https://github.com/seonghyun2457/QtChatProgramClient.git
